@@ -8,7 +8,8 @@ export default defineConfig({
     react(),
     federation({
       remotes: {
-        client_components: "http://localhost:4173/assets/clientPortal.js",
+        client_components:
+          "https://client-site-micro.netlify.app/assets/clientPortal.js",
       },
       shared: ["react"],
     }),
