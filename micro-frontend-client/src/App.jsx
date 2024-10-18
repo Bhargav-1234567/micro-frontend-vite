@@ -4,9 +4,9 @@ import ComplexComponent from "./components/ComplexComponent";
 
 function App() {
   return (
-    <>
+    <div className="container mt-3">
       <ComplexComponent />
-    </>
+    </div>
   );
 }
 
