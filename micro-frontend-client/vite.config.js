@@ -21,7 +21,7 @@ export default defineConfig({
   server: {
     port: 3001,
     cors: {
-      origin: "*",
+      origin: "https://main-site-micro.netlify.app",
     },
   },
   build: {
