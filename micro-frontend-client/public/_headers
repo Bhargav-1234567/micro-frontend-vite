@@ -1,0 +1,4 @@
+/* 
+  Access-Control-Allow-Origin: https://main-site-micro.netlify.app
+  Access-Control-Allow-Methods: GET, OPTIONS
+  Access-Control-Allow-Headers: Content-Type
